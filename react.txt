@@ -1,0 +1,86 @@
+
+
+Basic Topics like:->
+  
+
+1. Props and Prop Drilling
+
+2. Hooks - useState, useEffect, useRef
+
+3. Forms in React
+
+4. Mapping Components
+
+5. Conditional Rendering
+
+6. Node Package Manager (NPM)
+
+
+Advanced Topics like:->
+
+
+1. React Router DOM
+
+2. Code Optimisation Tips
+
+3. Redux
+
+4. Redux Toolkit
+
+5. Redux Persist
+
+6. Context API
+
+7. Best Folder Structure for React
+
+
+* projects ->
+
+
+flow:->
+
+
+1 - Downloading Required Dependencies
+
+2 - Creating First React JS Application
+
+3 - The Folder Structure
+
+4 - Running First React Application
+
+5 - Screens and Components
+
+6 - Creating First Screen
+
+7 - Introduction to Components
+
+8 - Props
+
+9 - Code Optimisation Tip 1
+
+10 - Making a Form in React
+
+11 - Conditional Rendering
+
+12 - Mapping Components
+
+13 - Introduction to Hooks
+
+14 - useState() hook
+
+15 - useEffect() hook
+
+16 - useMemo() hook
+
+17 - React Router DOM
+
+18 - Node Package Manager
+
+19 - Continuing React Router
+
+20 - Redux
+
+21 - Redux Persist and LocalStorage
+
+22 - Context API
+
